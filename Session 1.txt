@@ -1,0 +1,40 @@
+Need for a collection framework
+----------------------------------
+In real world we need containers to store the grocceries.
+In OOP world we need containers to store and manupulate objects.
+
+
+Varities of Containers available in Java
+------------------------------------------
+1.List
+2.Set
+3.Map
+4.Queue
+
+Collection framework hirarchy
+------------------------------
+refer the image
+
+1.List
+-----------
+
+Speciality of List is it has of methods related to index.It is ordered by index.
+
+Concrete List classes
+-----------------------
+1.ArrayList
+2.Vector
+3.LinkedList
+
+ArrayList
+----------
+Advantage of ArrayList over Array
+----------------------------------
+ArrayList can grow dynamically.
+It provides more powerful insertion and search mechanism than arrays.
+
+Demo 1
+Demo 2
+
+Sorting an arraylist. How to sort using Comparable interface
+Demo 3

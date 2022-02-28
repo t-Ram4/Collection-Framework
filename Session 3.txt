@@ -1,0 +1,21 @@
+Map
+----
+
+Speciality of Map is it maintains Key value pair. Key is unique. Both key and value are objects.
+
+
+Concrete implementation of Map
+------------------------------
+
+1.HashMap
+2.Hashtable
+3.LinkedHashMap
+4.TreeMap
+
+Demo
+
+1.Demo1
+
+Importance of implementing equals() and hashcode() method in class whose object is used as key.
+
+2.Demo 2

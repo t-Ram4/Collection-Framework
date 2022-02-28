@@ -1,0 +1,14 @@
+Collection framework
+
+1.Need of a collection framework
+
+2.Varietes of containers
+1.List-
+2.Set-
+3.Map-
+4.Queue-
+
+3.Project requirements
+
+4.Implementing each project requirement using collection types.
+
